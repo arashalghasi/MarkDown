@@ -47,7 +47,7 @@ Nested list
 
 ## Picture
 ![This is an image about circuits](circuit.jpg)
-![ Always fill alternate text because this is how your pic broke](circuits.jpg)
+![ Always fill alternate text because this is how your pic Break](circuits.jpg)
 
 ## Video
 [![Document Your Scientific Project With Markdown, Sphinx, and Read the Docs | PyData Global 2021](https://img.youtube.com/vi/qRSb299awB0/0.jpg)](https://www.youtube.com/watch?v=qRSb299awB0)  
@@ -108,7 +108,7 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 ## Strikethrough/ Highlight
 ~~strikethrough~~  
 <mark> Highlight </mark>  
-==Highlight==
+Markdown processors does not allow to highlight text with  ==Text==
 
 ## Task List
  - [ ] Not Checked
